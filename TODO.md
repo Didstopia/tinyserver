@@ -9,3 +9,6 @@
 - [ ] Add code coverage support (codecov.io)  
 - [ ] Add benchmarks and test against other alternatives  
 - [ ] Create a Docker image that serves as an example for a static hosting web server  
+- [ ] Implement some best practices for Go HTTP servers (more on this [here](https://blog.gopheracademy.com/advent-2016/exposing-go-on-the-internet/))  
+- [ ] Add abstractions for static hosting (more on this [here](https://itnext.io/building-a-web-http-server-with-go-6554029b4079))  
+- [ ] Add quality of life improvements, such as proper error handling (more on this [here](https://golang.org/doc/articles/wiki/))  
